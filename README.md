@@ -20,7 +20,7 @@
 4.JavaScript<br/>
 • PieChart added in my project.<br/>
 • This project is responsive.<br/>
-1.Desktop .<br/>
+1.Desktop.<br/>
 2.laptop.<br/>
 3.Tablet.<br/>
 4.Mobile Phone.<br/>
