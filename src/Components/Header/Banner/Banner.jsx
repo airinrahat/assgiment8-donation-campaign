@@ -31,7 +31,7 @@ const Banner = ({ onSearch }) => {
           <div className="text-center mt-8">
             <input
               type="text"
-              placeholder="Type here"
+              placeholder="Search here...."
               className="input bg-transparent border-slate-500  rounded-none rounded-l-lg md:w-80 sm:w-44 w-40"
               value={searchText}
               onChange={(e) => setSearchText(e.target.value)}
